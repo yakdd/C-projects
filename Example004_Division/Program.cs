@@ -1,2 +1,4 @@
 ﻿// exmp004 devision
-Console.WriteLine("devision");
+double number1 = 12;
+double number2 = 5;
+Console.WriteLine(number1 / number2);
